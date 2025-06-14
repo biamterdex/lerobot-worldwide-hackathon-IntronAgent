@@ -36,6 +36,9 @@ The robot was trained using the **ACT Policy** provided by the `lerobot` library
 
 ---
 
+🔗 **Dataset**: [https://huggingface.co/datasets/Biamterdex/record-intron-agent_01](#)  
+🔗 **Trained ACT Model**: [https://huggingface.co/Biamterdex/act_intron-agent_01](#)
+
 ## ⚠️ Important Note
 
 While the robot **successfully inferred the correct gripper** during inference runs, it **failed to mount the gripper and complete the pick/drop** operation. This suggests that:
