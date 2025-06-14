@@ -20,9 +20,9 @@ The task was divided into three stages and recorded across [3 demo videos](./vid
 3. **Mount a suction cup gripper**, which connects to a **vacuum motor** that activates via **electrical contact upon closing the gripper**, then **pick and place an egg**.
 
 > 📹 Video durations:
-> - `IMG_0104.MOV`: Full 1m21s flow
-> - `IMG_0105.MOV`: Gripper mounting trial
-> - `IMG_0107.MOV`: Inference test and failure case
+> - `IMG_0104.MOV`: Default Gripper
+> - `IMG_0105.MOV`: Forklift Gripper
+> - `IMG_0107.MOV`: Suction Cup Gripper
 
 ---
 
@@ -68,8 +68,7 @@ While the robot **successfully inferred the correct gripper** during inference r
 
 - `lerobot` library
 - `gymnasium` for simulation (if extended)
-- Python 3.9+
-- ROS2 Foxy (if physical testing is reproduced)
+- Python 3.7
 
 ---
 
